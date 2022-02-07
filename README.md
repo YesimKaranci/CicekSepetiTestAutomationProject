@@ -1,3 +1,3 @@
 # CucumberTestAutomationProject
 
-	Hepsiburada Selenium Test Automation Scripts
+	CicekSepeti Selenium Test Automation Scripts
